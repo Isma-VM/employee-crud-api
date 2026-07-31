@@ -9,7 +9,7 @@ Proyecto desarrollado como práctica de la metodología **Git Flow**, con ramas
 
 ---
 
-## 📌 Descripción
+##  Descripción
 
 El proyecto expone un CRUD completo de **Empleados**, permitiendo:
 
@@ -24,7 +24,7 @@ facilita ejecutar y probar el proyecto sin configuración adicional.
 
 ---
 
-## 🏗️ Arquitectura
+##  Arquitectura
 
 El proyecto está organizado en capas independientes, cada una con una única
 responsabilidad, aplicando **Inversión de Dependencias** mediante interfaces:
@@ -50,7 +50,7 @@ EmployeeCrudApi/
 
 ---
 
-## 🚀 Cómo ejecutar el proyecto
+##  Cómo ejecutar el proyecto
 
 ### Requisitos
 - [.NET SDK 8.0](https://dotnet.microsoft.com/download) o superior
@@ -68,7 +68,7 @@ muestra en la consola al iniciar).
 
 ---
 
-## 📡 Endpoints disponibles
+##  Endpoints disponibles
 
 | Método | Ruta | Descripción |
 |---|---|---|
@@ -98,7 +98,7 @@ muestra en la consola al iniciar).
 
 ---
 
-## 🌿 Flujo de trabajo (Git Flow)
+##  Flujo de trabajo (Git Flow)
 
 El desarrollo se organizó en **5 ramas `feature/`**, una por cada capa de la
 arquitectura, siguiendo el flujo:
