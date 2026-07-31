@@ -11,3 +11,4 @@ public interface IEmployeeRepository
     bool Delete(int id);
     bool ExistsWithEmail(string email, int? excludeId = null);
 }
+
